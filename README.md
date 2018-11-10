@@ -16,7 +16,7 @@ En mis ratos libre me gusta:<br>
 <li>Jugar videojuegoscon mis amigos.En especial StarCraft, WarCraft o Grand Theft Auto<br>
 <li>Escuchar música<br>
 <li>Tomar fotos de paisajes o de mis amigos.<br>
-<img src="25508036_1378867032240280_5807902322022968505_n.jpg" height="40%" width="30%">
+<img src="25508036_1378867032240280_5807902322022968505_n.jpg">
 <u><b><i><font face="Monotype Corsiva" size="4" color="blue">Fiesta de promoción 2017<font></i></b></u>
 
 </body>
