@@ -17,7 +17,7 @@ En mis ratos libre me gusta:<br>
 <li>Escuchar música<br>
 <li>Tomar fotos de paisajes o de mis amigos.<br>
 <img src="https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/25508036_1378867032240280_5807902322022968505_n.jpg?_nc_cat=111&_nc_ht=scontent-scl1-1.xx&oh=567137206f24701999a0ec2f61f7874e&oe=5C868140"  height="50%" width="50%"><br>
-<u><b><i><font face="Monotype Corsiva" size="4" color="blue">Fiesta de promoción 2017<font></i></b></u>
+<u><b><i><font face="Monotype Corsiva" size="4" color="blue">Fiesta de promoción 2017<font></i></b></u><br>
  <img src="https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/19510518_1223880454405606_2881193421904589519_n.jpg?_nc_cat=101&_nc_ht=scontent-scl1-1.xx&oh=602297b6f68fe7198f1d0aa744fb3920&oe=5C7E6090" height="50%" width="50%"><br>
 <u><b><i><font face="Monotype Corsiva" size="4" color="blue">Spider-man...<font></i></b></u>
 
