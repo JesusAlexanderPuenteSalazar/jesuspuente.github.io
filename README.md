@@ -1,6 +1,5 @@
 <html>
 <head><center><u><b><i><h1>Jesus Alexander Puente Salazar</h1></i></b></u></center></head>
-<title>jesus.alexander.puente.salazar</title>
 <body background="Wallpaper-of-NERV-logo.jpg">
 <font face="Monotype Corsiva" size="5" color="red">
 <b>CÓDIGO:201820143</b></font><p><br>
